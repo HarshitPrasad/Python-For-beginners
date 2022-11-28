@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HarshitPrasad
-- 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ...> Web Development
+- 🌱 I’m currently learning ...> Python/Django
+- 💞️ I’m looking to collaborate on ...> 
+- 📫 How to reach me ...> prasad.harshit000785@gmail.com
 
 <!---
 HarshitPrasad/HarshitPrasad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
