@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @HarshitPrasad
-- 👀 I’m interested in ...> Web Development
-- 🌱 I’m currently learning ...> Python/Django
-- 💞️ I’m looking to collaborate on ...> 
-- 📫 How to reach me ...> prasad.harshit000785@gmail.com
-
-<!---
-HarshitPrasad/HarshitPrasad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello! I'm a passionate Python developer with a knack for crafting elegant and efficient solutions to complex problems. With a solid foundation in Python programming, I thrive on turning ideas into reality through clean, maintainable code. Whether it's web development, data analysis, machine learning, or automation, I'm dedicated to leveraging Python's versatility to create robust and scalable applications. Let's innovate together!
